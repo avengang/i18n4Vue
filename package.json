@@ -1,5 +1,5 @@
 {
-  "name": "i18n4Vue",
+  "name": "i18n4vue",
   "version": "1.0.001",
   "description": "i18n",
   "main": "index.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/avengang/i18n4Vue.git"
+    "url": "git+https://github.com/avengang/i18n4vue.git"
   },
   "keywords": [
-    "i18n4Vue"
+    "i18n4vue"
   ],
   "author": "avengang",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/avengang/i18n4Vue/issues"
+    "url": "https://github.com/avengang/i18n4vue/issues"
   },
-  "homepage": "https://github.com/avengang/i18n4Vue#readme"
+  "homepage": "https://github.com/avengang/i18n4vue#readme"
 }
