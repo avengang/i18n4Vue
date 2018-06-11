@@ -1,5 +1,5 @@
 var source = null;
-Vi18n.install = function (Vue, options) {
+function install (Vue, options) {
 	source = options;
   
   Vue.prototype.$setVi18nLocal = function (local) {
@@ -11,3 +11,4 @@ Vi18n.install = function (Vue, options) {
   	return v
   }
 }
+export default install;
